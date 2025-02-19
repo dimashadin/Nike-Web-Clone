@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aldo",
+      "username": "aldo",
+      "email": "aldo@mail.com",
+      "password": "aldo123"
+    },
+    {
+      "id": 2,
+      "name": "Bella",
+      "username": "bella",
+      "email": "bella@mail.com",
+      "password": "bella123"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "username": "carlos",
+      "email": "carlos@mail.com",
+      "password": "carlos123"
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "username": "diana",
+      "email": "diana@mail.com",
+      "password": "diana123"
+    },
+    {
+      "id": 5,
+      "name": "Evan",
+      "username": "evan",
+      "email": "evan@mail.com",
+      "password": "evan123"
+    }
+  ],
+  "wishlist": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Basket Maximus Pro",
+      "slug": "basket-maximus-pro",
+      "description": "Desain modern yang memberikan kenyamanan ekstra untuk pemain basket profesional. Ideal untuk permainan indoor dan outdoor.",
+      "excerpt": "Sepatu basket premium dengan kenyamanan maksimal.",
+      "price": 5999999,
+      "tags": ["basket", "pro", "maximus"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20modern%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20modern%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20high-performance%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20high-performance%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20high-performance%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20high-performance%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20high-performance%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 2,
+      "name": "Sky Dunker Elite",
+      "slug": "sky-dunker-elite",
+      "description": "Dirancang khusus untuk pemain yang ingin melompat lebih tinggi dengan stabilitas dan performa optimal.",
+      "excerpt": "Sepatu basket untuk melompat lebih tinggi.",
+      "price": 6499999,
+      "tags": ["elite", "sky", "dunk"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20sky%20theme?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20sky%20theme?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20lightweight%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 3,
+      "name": "Hoop Warrior X",
+      "slug": "hoop-warrior-x",
+      "description": "Performa tak tertandingi untuk pemain yang dominan di lapangan, dengan bantalan super empuk.",
+      "excerpt": "Menjadi dominan di lapangan basket.",
+      "price": 6999999,
+      "tags": ["warrior", "hoop", "dominate"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20durable%20and%20stylish?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20durable%20and%20stylish?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20comfortable%20fit?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 4,
+      "name": "Air Drive Supreme",
+      "slug": "air-drive-supreme",
+      "description": "Sepatu dengan desain aerodinamis untuk meningkatkan kecepatan dan kelincahan di lapangan.",
+      "excerpt": "Kecepatan dan kelincahan di setiap langkah.",
+      "price": 5299999,
+      "tags": ["air", "drive", "speed"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20aerodynamic%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20aerodynamic%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20quick%20response?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 5,
+      "name": "Dunk Fusion Prime",
+      "slug": "dunk-fusion-prime",
+      "description": "Kombinasi sempurna antara gaya dan performa untuk pemain basket dengan gaya bermain agresif.",
+      "excerpt": "Sepatu basket untuk gaya dan performa maksimal.",
+      "price": 5799999,
+      "tags": ["dunk", "fusion", "prime"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20fusion%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20fusion%20design?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20modern%20aesthetic?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 6,
+      "name": "Court Ruler Vortex",
+      "slug": "court-ruler-vortex",
+      "description": "Dengan teknologi terbaru untuk cengkraman maksimal, sepatu ini membantu penguasaan penuh di lapangan.",
+      "excerpt": "Penguasaan penuh di setiap sudut lapangan.",
+      "price": 6199999,
+      "tags": ["court", "ruler", "vortex"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20for%20maximum%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20for%20maximum%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20control%20and%20power?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 7,
+      "name": "Bounce Edge Infinity",
+      "slug": "bounce-edge-infinity",
+      "description": "Didesain untuk kenyamanan optimal dengan teknologi bounce yang membantu pergerakan lebih responsif.",
+      "excerpt": "Responsif di setiap langkah.",
+      "price": 5699999,
+      "tags": ["bounce", "edge", "infinity"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20with%20bounce%20technology?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20with%20bounce%20technology?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20light%20and%20responsive?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 8,
+      "name": "Crossover Blaze",
+      "slug": "crossover-blaze",
+      "description": "Menawarkan stabilitas dan cengkraman yang superior untuk mendukung gerakan crossover yang tajam.",
+      "excerpt": "Stabilitas untuk gerakan yang tajam.",
+      "price": 5999999,
+      "tags": ["crossover", "blaze", "stability"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20for%20sharp%20crossover?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20for%20sharp%20crossover?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20stability%20and%20control?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 9,
+      "name": "Speed Flash Alpha",
+      "slug": "speed-flash-alpha",
+      "description": "Sepatu basket yang ringan dengan fitur untuk mendukung kecepatan maksimal di lapangan.",
+      "excerpt": "Kecepatan maksimal untuk permainan cepat.",
+      "price": 5599999,
+      "tags": ["speed", "flash", "alpha"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20for%20speed%20and%20agility?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20for%20speed%20and%20agility?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20quick%20maneuvering?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "id": 10,
+      "name": "Grip Master Pro",
+      "slug": "grip-master-pro",
+      "description": "Teknologi grip inovatif untuk cengkraman sempurna di berbagai jenis permukaan lapangan.",
+      "excerpt": "Cengkraman terbaik di setiap langkah.",
+      "price": 6499999,
+      "tags": ["grip", "master", "pro"],
+      "thumbnail": "https://image.pollinations.ai/prompt/basketball%20shoes%20innovative%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+      "images": [
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20innovative%20grip?width=1000&height=1000&enhance=true&nologo=true&model=flux",
+        "https://image.pollinations.ai/prompt/basketball%20shoes%20traction%20technology?width=1000&height=1000&enhance=true&nologo=true&model=flux"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    }
+  ]
+}
